@@ -17,6 +17,7 @@ In this [link](https://drive.google.com/drive/folders/1VK--DpQymu4Tps1KHiXz8Kf4x
 # Slides
 
 1. [Refresher](https://docs.google.com/presentation/d/1bIVQqsFho6R5_NAm1T9mJcf2izAfJ-s0YFSYAawtRK0/edit?usp=sharing)
+2. [Pre-processing](https://docs.google.com/presentation/d/156ov7qr4cQVAf8-YjixzLS7fmLXyzSocDYgknWXh4r8/edit?usp=sharing)
 
 # Setup
 
