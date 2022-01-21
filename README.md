@@ -10,6 +10,10 @@ The course is divided into seven different parts:
 6. Deep-learning
 7. Text and Stream Mining
 
+# Google Drive
+
+In this [link](https://drive.google.com/drive/folders/1VK--DpQymu4Tps1KHiXz8Kf4xZd8Pljk?usp=sharing) you have access to the material of the class in a shared google drive folder.
+
 # Slides
 
 1. [Refresher](https://docs.google.com/presentation/d/1bIVQqsFho6R5_NAm1T9mJcf2izAfJ-s0YFSYAawtRK0/edit?usp=sharing)
@@ -18,7 +22,7 @@ The course is divided into seven different parts:
 
 All of the materials were written in python, using the commonly used libraries.
 The materials themselves are organized in Jupyter Notebooks to ease the execution of the same. 
-To setup the environement, execute the following commands:
+To set up the environment, execute the following commands:
 
 ```bash
 python3 -m venv venv
