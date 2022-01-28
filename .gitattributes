@@ -1,0 +1,12 @@
+datasets/heart.csv filter=lfs diff=lfs merge=lfs -text
+datasets/housing.csv filter=lfs diff=lfs merge=lfs -text
+datasets/mainSimulationAccessTraces.csv filter=lfs diff=lfs merge=lfs -text
+datasets/periodicityDataset.csv filter=lfs diff=lfs merge=lfs -text
+datasets/toy_dataset_01.csv filter=lfs diff=lfs merge=lfs -text
+datasets/toy_dataset_02.csv filter=lfs diff=lfs merge=lfs -text
+datasets/data_prep.csv filter=lfs diff=lfs merge=lfs -text
+datasets/iris.csv filter=lfs diff=lfs merge=lfs -text
+datasets/spam.csv filter=lfs diff=lfs merge=lfs -text
+datasets/titanic_test.csv filter=lfs diff=lfs merge=lfs -text
+datasets/titanic_train.csv filter=lfs diff=lfs merge=lfs -text
+datasets/toy_dataset_00.csv filter=lfs diff=lfs merge=lfs -text
