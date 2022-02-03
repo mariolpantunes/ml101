@@ -11,3 +11,6 @@ datasets/titanic_test.csv filter=lfs diff=lfs merge=lfs -text
 datasets/titanic_train.csv filter=lfs diff=lfs merge=lfs -text
 datasets/toy_dataset_00.csv filter=lfs diff=lfs merge=lfs -text
 audio/audio1.wav filter=lfs diff=lfs merge=lfs -text
+figs/01.jpg filter=lfs diff=lfs merge=lfs -text
+figs/02.jpg filter=lfs diff=lfs merge=lfs -text
+figs/03.jpg filter=lfs diff=lfs merge=lfs -text
