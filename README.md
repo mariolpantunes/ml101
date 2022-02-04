@@ -21,6 +21,7 @@ In this [link](https://drive.google.com/drive/folders/1VK--DpQymu4Tps1KHiXz8Kf4x
 3. [Models](https://docs.google.com/presentation/d/1gsC41er8qtMgEEW6ueTHIGDie4QrdYN1g-aiZylCGOw/edit?usp=sharing)
 4. [Evaluation](https://docs.google.com/presentation/d/1ELoYLUUmBiNJlrzDyWLFk_2PePY043sssdpqC1y6dOg/edit?usp=sharing)
 5. [Unsupervised](https://docs.google.com/presentation/d/1g1ElQcqY_F0R2JlQODzrIXOOKB6q1j_1xqIsTLQEl6I/edit?usp=sharing)
+6. [Deep Learning](https://docs.google.com/presentation/d/1OpgIDxLE89a4mpDfIscUfcR2SIdewfCeaLiPaiMJBbE/edit?usp=sharing)
 
 # Setup
 
