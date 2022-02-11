@@ -10,11 +10,11 @@ The course is divided into seven different parts:
 6. Deep-learning
 7. Text and Stream Mining
 
-# Google Drive
+## Google Drive
 
 In this [link](https://drive.google.com/drive/folders/1VK--DpQymu4Tps1KHiXz8Kf4xZd8Pljk?usp=sharing) you have access to the material of the class in a shared google drive folder.
 
-# Slides
+## Slides
 
 1. [Refresher](https://docs.google.com/presentation/d/1bIVQqsFho6R5_NAm1T9mJcf2izAfJ-s0YFSYAawtRK0/edit?usp=sharing)
 2. [Pre-processing](https://docs.google.com/presentation/d/156ov7qr4cQVAf8-YjixzLS7fmLXyzSocDYgknWXh4r8/edit?usp=sharing)
@@ -24,7 +24,7 @@ In this [link](https://drive.google.com/drive/folders/1VK--DpQymu4Tps1KHiXz8Kf4x
 6. [Deep Learning](https://docs.google.com/presentation/d/1OpgIDxLE89a4mpDfIscUfcR2SIdewfCeaLiPaiMJBbE/edit?usp=sharing)
 7. [Time Series](https://docs.google.com/presentation/d/1FNP6eKG5apjkY9cUoQTqAciQLPZ2udeQB2kToCx817Q/edit?usp=sharing)/[Text Mining](https://docs.google.com/presentation/d/1VLIScw8gq20uR1KPRBLA-Ni_q0IyiCaYTFlJa4yUHN4/edit?usp=sharing)
 
-# Setup
+## Setup
 
 All of the materials were written in python, using the commonly used libraries.
 The materials themselves are organized in Jupyter Notebooks to ease the execution of the same. 
@@ -36,6 +36,24 @@ source venv/bin/activate
 pip install -r requirements.txt
 jupyter-notebook 
 ```
+
+### Setup for local Colab
+
+The time series project needs access to the local network to publish the predictions within a local MQTT server.
+To achieve this, we can run the colab on a local instance.
+Follow this steps to prepare the local virtual environment:
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+jupyter serverextension enable --py jupyter_http_over_ws
+jupyter notebook \
+  --NotebookApp.allow_origin='https://colab.research.google.com' \
+  --port=8888 \
+  --NotebookApp.port_retries=0
+```
+
 
 ## Authors
 
